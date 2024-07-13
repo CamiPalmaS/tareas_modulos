@@ -16,6 +16,10 @@
     color: darkred;
 }
 
+header{
+    padding: 5px;
+    color: rgb(137, 197, 206);
+}
 
 thead{
     color: aliceblue;
